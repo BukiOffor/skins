@@ -1,0 +1,52 @@
+footer {
+    background-color: #0f3460;
+    padding: 50px 0;
+    color: #fff;
+}
+
+footer h1 {
+    margin-bottom: 30px;
+    color: #e94560;
+    font-weight: 800;
+    font-style: italic;
+}
+
+footer .img {
+    background-color: #0c2a4d;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+
+footer .img svg {
+    font-size: 20px;
+    /* margin: 5px; */
+}
+
+footer .img span {
+    margin-top: 14px;
+    font-size: 15px;
+}
+
+footer .box:not(:first-child) {
+    padding-left: 30px;
+}
+
+footer p {
+    font-size: 14px;
+    font-weight: 300;
+    opacity: 0.5;
+    margin-bottom: 20px;
+}
+
+footer h2 {
+    margin-bottom: 20px;
+}
+
+footer li {
+    margin-bottom: 10px;
+    opacity: 0.5;
+}
+
+footer li svg {
+    margin-right: 5px;
+}

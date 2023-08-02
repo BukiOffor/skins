@@ -1,0 +1,4 @@
+.discount-price .old-price {
+    color: rgb(208, 203, 203);
+    text-decoration-line: line-through;
+}
